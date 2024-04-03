@@ -29,7 +29,7 @@ git clone https://github.com/Azarex145/quadB-tech-task.git
 
 ### Navigate to the project directory:
 ```bash
-cd todo-app
+cd quadB-tech-task
 ```
 
 ### Install dependencies:
